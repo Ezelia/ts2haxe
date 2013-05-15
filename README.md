@@ -27,13 +27,13 @@ TODO LIST
 * convert setTimer/setInterval syntax to Timer/Timer.delay.
 * add tests and samples
 
-feel free to post new features request in [Issue Tracker][1] .
+feel free to post new [features requests](https://github.com/Ezelia/ts2haxe/issues) .
 
 
 Help to improve ts2haxe
 -----------------------
 
-to help improving this script please report any issue with tast cases to the [Issue Tracker][1] .
+to help improving this script please report any issue with tast cases to the [Issue Tracker](https://github.com/Ezelia/ts2haxe/issues) .
 you are also welcome to fork and make pull requests to enhance/fix ts2haxe
 
 
