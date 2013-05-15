@@ -6,9 +6,9 @@ it's not a compiler it only automate common conversion tasks allowing you to eas
 Usage
 ---------------------
 
-'''
+```js
 node ts2haxe MyClass.ts MyClass.hx
-'''
+```
 
 What's implemented
 ------------------
@@ -39,7 +39,7 @@ you are also welcome to fork and make pull requests to enhance/fix ts2haxe
 
 License
 -------
-
+```
 //   MIT License
 //   Copyright(c) 2013 Ezelia.com and other contributors
 //   Author : Alaa-eddine KADDOURI 
@@ -61,3 +61,4 @@ License
 // LIABILITY,  WHETHER IN AN ACTION OF CONTRACT,  TORT OR OTHERWISE,  ARISING 
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
 // IN THE SOFTWARE.
+```
